@@ -64,7 +64,7 @@ def main():
     #Multi process solution here
     ball_process.start()
     
-    input_thread = threading.Thread(target = handle_input, daemon=True)
+    input_thread = threading.Thread(target = handle_input)
     #threaded solution here
     input_thread.start()
     
