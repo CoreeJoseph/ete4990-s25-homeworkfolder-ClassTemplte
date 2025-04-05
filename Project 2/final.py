@@ -59,10 +59,10 @@ async def main(highest_prime):
 if __name__ == "__main__":
     #highest_prime = run_prime_finder()
     highest_prime, multi_count = run_prime_finder()
-    fib_queue = multiprocessing.Queue
-    fib_thread = threading.Thread(target=fibonacci, args=(highest_prime,))
+    fib_queue = multiprocessing.Queue()
+    fib_thread = threading.Thread(target=fibonacci, args=(highest_prime, fib_queue))
     fib_thread.start()
-    fib_result, fib_count = fibonacci(highest_prime)
+    #fib_result, fib_count = fibonacci(highest_prime)
     fact_result, fact_count = asyncio.run(main(highest_prime))
 
     fib_thread.join()
