@@ -1,0 +1,10 @@
+2025-04-27 22:01:35,742 | ui | CRITICAL | System failure
+2025-04-27 22:01:35,742 | ui | CRITICAL | Disk failure detected
+2025-04-27 22:01:35,742 | ui | WARNING | Database corruption
+2025-04-27 22:01:35,742 | ui | CRITICAL | Disk failure detected
+2025-04-27 22:01:35,742 | ui | CRITICAL | Database corruption
+2025-04-27 22:01:35,742 | ui | ERROR | Service restarted
+2025-04-27 22:01:35,742 | ui | ERROR | Heartbeat ok
+2025-04-27 22:01:35,743 | ui | CRITICAL | Service restarted
+2025-04-27 22:01:35,745 | ui | WARNING | Unhandled exception
+2025-04-27 22:01:35,745 | ui | INFO | Disk failure detected

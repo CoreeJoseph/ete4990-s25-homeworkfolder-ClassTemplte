@@ -1,0 +1,10 @@
+2025-04-27 22:01:35,728 | sqldb | ERROR | User login successful
+2025-04-27 22:01:35,736 | sqldb | ERROR | Unhandled exception
+2025-04-27 22:01:35,736 | sqldb | CRITICAL | Heartbeat ok
+2025-04-27 22:01:35,736 | sqldb | ERROR | Disk failure detected
+2025-04-27 22:01:35,736 | sqldb | WARNING | Disk failure detected
+2025-04-27 22:01:35,736 | sqldb | ERROR | Service restarted
+2025-04-27 22:01:35,736 | sqldb | CRITICAL | User login successful
+2025-04-27 22:01:35,736 | sqldb | WARNING | Heartbeat ok
+2025-04-27 22:01:35,736 | sqldb | ERROR | User login successful
+2025-04-27 22:01:35,736 | sqldb | CRITICAL | Connection timeout
