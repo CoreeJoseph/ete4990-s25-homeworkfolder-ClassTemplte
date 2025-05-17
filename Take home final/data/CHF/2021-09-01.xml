@@ -1,0 +1,1964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Historical Foreign Exchange Rates for Swiss Franc (CHF) (1 Sep 2021)</title>
+	<link>http://www.floatrates.com/currency/chf/</link>
+	<xmlLink>http://www.floatrates.com/daily/chf.xml</xmlLink>
+	<description>XML historical foreign exchange rates for Swiss Franc (CHF) from the Float Rates. Published at 1 Sep 2021.</description>
+	<language>en</language>
+	<baseCurrency>CHF</baseCurrency>
+	<pubDate>Wed, 1 Sep 2021</pubDate>
+	<lastBuildDate>Wed, 1 Sep 2021</lastBuildDate>
+	
+	<item>
+		<title>1 CHF = 0.922607 EUR</title>
+		<link>http://www.floatrates.com/chf/eur/</link>
+		<description>1 Swiss Franc = 0.922607 Euro</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.922607</exchangeRate>
+		<inverseRate>1.083886</inverseRate>
+		<inverseDescription>1 Euro = 1.083886 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.090400 USD</title>
+		<link>http://www.floatrates.com/chf/usd/</link>
+		<description>1 Swiss Franc = 1.090400 U.S. Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>1.090400</exchangeRate>
+		<inverseRate>0.917095</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 0.917095 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.374465 CAD</title>
+		<link>http://www.floatrates.com/chf/cad/</link>
+		<description>1 Swiss Franc = 1.374465 Canadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>1.374465</exchangeRate>
+		<inverseRate>0.727556</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 0.727556 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 0.792385 GBP</title>
+		<link>http://www.floatrates.com/chf/gbp/</link>
+		<description>1 Swiss Franc = 0.792385 U.K. Pound Sterling</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.792385</exchangeRate>
+		<inverseRate>1.262013</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 1.262013 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 0.792532 GIP</title>
+		<link>http://www.floatrates.com/chf/gip/</link>
+		<description>1 Swiss Franc = 0.792532 Gibraltar pound</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>GIP</targetCurrency>
+		<targetName>Gibraltar pound</targetName>
+		<exchangeRate>0.792532</exchangeRate>
+		<inverseRate>1.261779</inverseRate>
+		<inverseDescription>1 Gibraltar pound = 1.261779 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.000000 CHF</title>
+		<link>http://www.floatrates.com/chf/chf/</link>
+		<description>1 Swiss Franc = 1.000000 Swiss Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>1.000000</exchangeRate>
+		<inverseRate>1.000000</inverseRate>
+		<inverseDescription>1 Swiss Franc = 1.000000 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 6.861624 DKK</title>
+		<link>http://www.floatrates.com/chf/dkk/</link>
+		<description>1 Swiss Franc = 6.861624 Danish Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>6.861624</exchangeRate>
+		<inverseRate>0.145738</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.145738 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 9.395200 SEK</title>
+		<link>http://www.floatrates.com/chf/sek/</link>
+		<description>1 Swiss Franc = 9.395200 Swedish Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>9.395200</exchangeRate>
+		<inverseRate>0.106437</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.106437 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 9.469287 NOK</title>
+		<link>http://www.floatrates.com/chf/nok/</link>
+		<description>1 Swiss Franc = 9.469287 Norwegian Krone</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>9.469287</exchangeRate>
+		<inverseRate>0.105605</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.105605 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4.089848 SAR</title>
+		<link>http://www.floatrates.com/chf/sar/</link>
+		<description>1 Swiss Franc = 4.089848 Saudi Riyal</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>4.089848</exchangeRate>
+		<inverseRate>0.244508</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.244508 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 0.327815 KWD</title>
+		<link>http://www.floatrates.com/chf/kwd/</link>
+		<description>1 Swiss Franc = 0.327815 Kuwaiti Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.327815</exchangeRate>
+		<inverseRate>3.050501</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 3.050501 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4.008129 AED</title>
+		<link>http://www.floatrates.com/chf/aed/</link>
+		<description>1 Swiss Franc = 4.008129 U.A.E Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>4.008129</exchangeRate>
+		<inverseRate>0.249493</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.249493 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 3.969232 QAR</title>
+		<link>http://www.floatrates.com/chf/qar/</link>
+		<description>1 Swiss Franc = 3.969232 Qatari Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>3.969232</exchangeRate>
+		<inverseRate>0.251938</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.251938 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 0.410436 BHD</title>
+		<link>http://www.floatrates.com/chf/bhd/</link>
+		<description>1 Swiss Franc = 0.410436 Bahrain Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.410436</exchangeRate>
+		<inverseRate>2.436434</inverseRate>
+		<inverseDescription>1 Bahrain Dinar = 2.436434 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 120.187021 JPY</title>
+		<link>http://www.floatrates.com/chf/jpy/</link>
+		<description>1 Swiss Franc = 120.187021 Japanese Yen</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>120.187021</exchangeRate>
+		<inverseRate>0.008320</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.008320 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 147.917391 DZD</title>
+		<link>http://www.floatrates.com/chf/dzd/</link>
+		<description>1 Swiss Franc = 147.917391 Algerian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>147.917391</exchangeRate>
+		<inverseRate>0.006761</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.006761 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 3.038823 TND</title>
+		<link>http://www.floatrates.com/chf/tnd/</link>
+		<description>1 Swiss Franc = 3.038823 Tunisian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>3.038823</exchangeRate>
+		<inverseRate>0.329075</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 0.329075 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4.930724 LYD</title>
+		<link>http://www.floatrates.com/chf/lyd/</link>
+		<description>1 Swiss Franc = 4.930724 Libyan Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>4.930724</exchangeRate>
+		<inverseRate>0.202810</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.202810 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 39.548587 MRO</title>
+		<link>http://www.floatrates.com/chf/mro/</link>
+		<description>1 Swiss Franc = 39.548587 Mauritanian Ouguiya</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MRO</targetCurrency>
+		<targetName>Mauritanian Ouguiya</targetName>
+		<exchangeRate>39.548587</exchangeRate>
+		<inverseRate>0.025285</inverseRate>
+		<inverseDescription>1 Mauritanian Ouguiya = 0.025285 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 0.419608 OMR</title>
+		<link>http://www.floatrates.com/chf/omr/</link>
+		<description>1 Swiss Franc = 0.419608 Omani Rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.419608</exchangeRate>
+		<inverseRate>2.383174</inverseRate>
+		<inverseDescription>1 Omani Rial = 2.383174 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 5.626622 BRL</title>
+		<link>http://www.floatrates.com/chf/brl/</link>
+		<description>1 Swiss Franc = 5.626622 Brazilian Real</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>5.626622</exchangeRate>
+		<inverseRate>0.177727</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.177727 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 79.610515 RUB</title>
+		<link>http://www.floatrates.com/chf/rub/</link>
+		<description>1 Swiss Franc = 79.610515 Russian Rouble</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>79.610515</exchangeRate>
+		<inverseRate>0.012561</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.012561 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 79.617148 INR</title>
+		<link>http://www.floatrates.com/chf/inr/</link>
+		<description>1 Swiss Franc = 79.617148 Indian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>79.617148</exchangeRate>
+		<inverseRate>0.012560</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.012560 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 7.047355 CNY</title>
+		<link>http://www.floatrates.com/chf/cny/</link>
+		<description>1 Swiss Franc = 7.047355 Chinese Yuan</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>7.047355</exchangeRate>
+		<inverseRate>0.141897</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.141897 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.484494 AUD</title>
+		<link>http://www.floatrates.com/chf/aud/</link>
+		<description>1 Swiss Franc = 1.484494 Australian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>1.484494</exchangeRate>
+		<inverseRate>0.673630</inverseRate>
+		<inverseDescription>1 Australian Dollar = 0.673630 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 15.719241 ZAR</title>
+		<link>http://www.floatrates.com/chf/zar/</link>
+		<description>1 Swiss Franc = 15.719241 South African Rand</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>15.719241</exchangeRate>
+		<inverseRate>0.063616</inverseRate>
+		<inverseDescription>1 South African Rand = 0.063616 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 9.047612 TRY</title>
+		<link>http://www.floatrates.com/chf/try/</link>
+		<description>1 Swiss Franc = 9.047612 Turkish Lira</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>9.047612</exchangeRate>
+		<inverseRate>0.110526</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.110526 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 17.111713 EGP</title>
+		<link>http://www.floatrates.com/chf/egp/</link>
+		<description>1 Swiss Franc = 17.111713 Egyptian Pound</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>17.111713</exchangeRate>
+		<inverseRate>0.058440</inverseRate>
+		<inverseDescription>1 Egyptian Pound = 0.058440 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 0.772857 JOD</title>
+		<link>http://www.floatrates.com/chf/jod/</link>
+		<description>1 Swiss Franc = 0.772857 Jordanian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.772857</exchangeRate>
+		<inverseRate>1.293900</inverseRate>
+		<inverseDescription>1 Jordanian Dinar = 1.293900 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 605.447060 XOF</title>
+		<link>http://www.floatrates.com/chf/xof/</link>
+		<description>1 Swiss Franc = 605.447060 West African CFA Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>605.447060</exchangeRate>
+		<inverseRate>0.001652</inverseRate>
+		<inverseDescription>1 West African CFA Franc = 0.001652 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 9.727503 MAD</title>
+		<link>http://www.floatrates.com/chf/mad/</link>
+		<description>1 Swiss Franc = 9.727503 Moroccan Dirham</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>9.727503</exchangeRate>
+		<inverseRate>0.102801</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.102801 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.955573 ANG</title>
+		<link>http://www.floatrates.com/chf/ang/</link>
+		<description>1 Swiss Franc = 1.955573 Neth. Antillean Guilder</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>ANG</targetCurrency>
+		<targetName>Neth. Antillean Guilder</targetName>
+		<exchangeRate>1.955573</exchangeRate>
+		<inverseRate>0.511359</inverseRate>
+		<inverseDescription>1 Neth. Antillean Guilder = 0.511359 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 92.919675 BDT</title>
+		<link>http://www.floatrates.com/chf/bdt/</link>
+		<description>1 Swiss Franc = 92.919675 Bangladeshi taka</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BDT</targetCurrency>
+		<targetName>Bangladeshi taka</targetName>
+		<exchangeRate>92.919675</exchangeRate>
+		<inverseRate>0.010762</inverseRate>
+		<inverseDescription>1 Bangladeshi taka = 0.010762 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 8.480169 HKD</title>
+		<link>http://www.floatrates.com/chf/hkd/</link>
+		<description>1 Swiss Franc = 8.480169 Hong Kong Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>8.480169</exchangeRate>
+		<inverseRate>0.117922</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.117922 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 15,601.544989 IDR</title>
+		<link>http://www.floatrates.com/chf/idr/</link>
+		<description>1 Swiss Franc = 15,601.544989 Indonesian Rupiah</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>15,601.544989</exchangeRate>
+		<inverseRate>0.000064</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.000064 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1,648.057448 LBP</title>
+		<link>http://www.floatrates.com/chf/lbp/</link>
+		<description>1 Swiss Franc = 1,648.057448 Lebanese Pound</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>1,648.057448</exchangeRate>
+		<inverseRate>0.000607</inverseRate>
+		<inverseDescription>1 Lebanese Pound = 0.000607 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 217.580777 LKR</title>
+		<link>http://www.floatrates.com/chf/lkr/</link>
+		<description>1 Swiss Franc = 217.580777 Sri Lanka Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>217.580777</exchangeRate>
+		<inverseRate>0.004596</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.004596 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 127.548690 NPR</title>
+		<link>http://www.floatrates.com/chf/npr/</link>
+		<description>1 Swiss Franc = 127.548690 Nepalese Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>127.548690</exchangeRate>
+		<inverseRate>0.007840</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.007840 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.545769 NZD</title>
+		<link>http://www.floatrates.com/chf/nzd/</link>
+		<description>1 Swiss Franc = 1.545769 New Zealand Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>1.545769</exchangeRate>
+		<inverseRate>0.646927</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 0.646927 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 54.566028 PHP</title>
+		<link>http://www.floatrates.com/chf/php/</link>
+		<description>1 Swiss Franc = 54.566028 Philippine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>54.566028</exchangeRate>
+		<inverseRate>0.018326</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.018326 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 181.853242 PKR</title>
+		<link>http://www.floatrates.com/chf/pkr/</link>
+		<description>1 Swiss Franc = 181.853242 Pakistani Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>181.853242</exchangeRate>
+		<inverseRate>0.005499</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.005499 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.467083 SGD</title>
+		<link>http://www.floatrates.com/chf/sgd/</link>
+		<description>1 Swiss Franc = 1.467083 Singapore Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>1.467083</exchangeRate>
+		<inverseRate>0.681625</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 0.681625 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 35.258529 THB</title>
+		<link>http://www.floatrates.com/chf/thb/</link>
+		<description>1 Swiss Franc = 35.258529 Thai Baht</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>35.258529</exchangeRate>
+		<inverseRate>0.028362</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.028362 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1,261.767847 KRW</title>
+		<link>http://www.floatrates.com/chf/krw/</link>
+		<description>1 Swiss Franc = 1,261.767847 South Korean Won</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>1,261.767847</exchangeRate>
+		<inverseRate>0.000793</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.000793 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4.526089 MYR</title>
+		<link>http://www.floatrates.com/chf/myr/</link>
+		<description>1 Swiss Franc = 4.526089 Malaysian Ringgit</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>4.526089</exchangeRate>
+		<inverseRate>0.220941</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.220941 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 30.225212 TWD</title>
+		<link>http://www.floatrates.com/chf/twd/</link>
+		<description>1 Swiss Franc = 30.225212 New Taiwan Dollar </description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>30.225212</exchangeRate>
+		<inverseRate>0.033085</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.033085 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 24,827.337534 VND</title>
+		<link>http://www.floatrates.com/chf/vnd/</link>
+		<description>1 Swiss Franc = 24,827.337534 Vietnamese Dong</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>24,827.337534</exchangeRate>
+		<inverseRate>0.000040</inverseRate>
+		<inverseDescription>1 Vietnamese Dong = 0.000040 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 3.825962 PGK</title>
+		<link>http://www.floatrates.com/chf/pgk/</link>
+		<description>1 Swiss Franc = 3.825962 Papua New Guinean kina</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>3.825962</exchangeRate>
+		<inverseRate>0.261372</inverseRate>
+		<inverseDescription>1 Papua New Guinean kina = 0.261372 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 321.196572 HUF</title>
+		<link>http://www.floatrates.com/chf/huf/</link>
+		<description>1 Swiss Franc = 321.196572 Hungarian Forint</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>321.196572</exchangeRate>
+		<inverseRate>0.003113</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.003113 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 29.409975 UAH</title>
+		<link>http://www.floatrates.com/chf/uah/</link>
+		<description>1 Swiss Franc = 29.409975 Ukrainian Hryvnia</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>29.409975</exchangeRate>
+		<inverseRate>0.034002</inverseRate>
+		<inverseDescription>1 Ukrainian Hryvnia = 0.034002 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 23.450137 CZK</title>
+		<link>http://www.floatrates.com/chf/czk/</link>
+		<description>1 Swiss Franc = 23.450137 Czech Koruna</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>23.450137</exchangeRate>
+		<inverseRate>0.042644</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.042644 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 137.470459 ISK</title>
+		<link>http://www.floatrates.com/chf/isk/</link>
+		<description>1 Swiss Franc = 137.470459 Icelandic Krona</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>137.470459</exchangeRate>
+		<inverseRate>0.007274</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.007274 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 6.910723 HRK</title>
+		<link>http://www.floatrates.com/chf/hrk/</link>
+		<description>1 Swiss Franc = 6.910723 Croatian Kuna</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>6.910723</exchangeRate>
+		<inverseRate>0.144703</inverseRate>
+		<inverseDescription>1 Croatian Kuna = 0.144703 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4.553380 RON</title>
+		<link>http://www.floatrates.com/chf/ron/</link>
+		<description>1 Swiss Franc = 4.553380 Romanian New Leu</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>4.553380</exchangeRate>
+		<inverseRate>0.219617</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.219617 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.804743 BGN</title>
+		<link>http://www.floatrates.com/chf/bgn/</link>
+		<description>1 Swiss Franc = 1.804743 Bulgarian Lev</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>1.804743</exchangeRate>
+		<inverseRate>0.554096</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 0.554096 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 3.492219 ILS</title>
+		<link>http://www.floatrates.com/chf/ils/</link>
+		<description>1 Swiss Franc = 3.492219 Israeli New Sheqel</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>3.492219</exchangeRate>
+		<inverseRate>0.286351</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.286351 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 843.008992 CLP</title>
+		<link>http://www.floatrates.com/chf/clp/</link>
+		<description>1 Swiss Franc = 843.008992 Chilean Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>843.008992</exchangeRate>
+		<inverseRate>0.001186</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.001186 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 21.801152 MXN</title>
+		<link>http://www.floatrates.com/chf/mxn/</link>
+		<description>1 Swiss Franc = 21.801152 Mexican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>21.801152</exchangeRate>
+		<inverseRate>0.045869</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.045869 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 96.775365 AFN</title>
+		<link>http://www.floatrates.com/chf/afn/</link>
+		<description>1 Swiss Franc = 96.775365 Afghan afghani</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>AFN</targetCurrency>
+		<targetName>Afghan afghani</targetName>
+		<exchangeRate>96.775365</exchangeRate>
+		<inverseRate>0.010333</inverseRate>
+		<inverseDescription>1 Afghan afghani = 0.010333 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4,271.997774 MGA</title>
+		<link>http://www.floatrates.com/chf/mga/</link>
+		<description>1 Swiss Franc = 4,271.997774 Malagasy ariary</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MGA</targetCurrency>
+		<targetName>Malagasy ariary</targetName>
+		<exchangeRate>4,271.997774</exchangeRate>
+		<inverseRate>0.000234</inverseRate>
+		<inverseDescription>1 Malagasy ariary = 0.000234 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.090400 PAB</title>
+		<link>http://www.floatrates.com/chf/pab/</link>
+		<description>1 Swiss Franc = 1.090400 Panamanian Balboa</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>1.090400</exchangeRate>
+		<inverseRate>0.917095</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 0.917095 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 49.755010 ETB</title>
+		<link>http://www.floatrates.com/chf/etb/</link>
+		<description>1 Swiss Franc = 49.755010 Ethiopian birr</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>ETB</targetCurrency>
+		<targetName>Ethiopian birr</targetName>
+		<exchangeRate>49.755010</exchangeRate>
+		<inverseRate>0.020098</inverseRate>
+		<inverseDescription>1 Ethiopian birr = 0.020098 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4,483,300.890223 VES</title>
+		<link>http://www.floatrates.com/chf/ves/</link>
+		<description>1 Swiss Franc = 4,483,300.890223 Venezuelan Bolivar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>VES</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>4,483,300.890223</exchangeRate>
+		<inverseRate>0.000000</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar = 0.000000 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 7.518236 BOB</title>
+		<link>http://www.floatrates.com/chf/bob/</link>
+		<description>1 Swiss Franc = 7.518236 Bolivian Boliviano</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>7.518236</exchangeRate>
+		<inverseRate>0.133010</inverseRate>
+		<inverseDescription>1 Bolivian Boliviano = 0.133010 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 678.202353 CRC</title>
+		<link>http://www.floatrates.com/chf/crc/</link>
+		<description>1 Swiss Franc = 678.202353 Costa Rican Colón</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>678.202353</exchangeRate>
+		<inverseRate>0.001474</inverseRate>
+		<inverseDescription>1 Costa Rican Colón = 0.001474 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 9.536756 SVC</title>
+		<link>http://www.floatrates.com/chf/svc/</link>
+		<description>1 Swiss Franc = 9.536756 Salvadoran colon</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SVC</targetCurrency>
+		<targetName>Salvadoran colon</targetName>
+		<exchangeRate>9.536756</exchangeRate>
+		<inverseRate>0.104857</inverseRate>
+		<inverseDescription>1 Salvadoran colon = 0.104857 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 38.252017 NIO</title>
+		<link>http://www.floatrates.com/chf/nio/</link>
+		<description>1 Swiss Franc = 38.252017 Nicaraguan Córdoba</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>38.252017</exchangeRate>
+		<inverseRate>0.026142</inverseRate>
+		<inverseDescription>1 Nicaraguan Córdoba = 0.026142 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 56.727481 GMD</title>
+		<link>http://www.floatrates.com/chf/gmd/</link>
+		<description>1 Swiss Franc = 56.727481 Gambian dalasi</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>GMD</targetCurrency>
+		<targetName>Gambian dalasi</targetName>
+		<exchangeRate>56.727481</exchangeRate>
+		<inverseRate>0.017628</inverseRate>
+		<inverseDescription>1 Gambian dalasi = 0.017628 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 56.856665 MKD</title>
+		<link>http://www.floatrates.com/chf/mkd/</link>
+		<description>1 Swiss Franc = 56.856665 Macedonian denar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MKD</targetCurrency>
+		<targetName>Macedonian denar</targetName>
+		<exchangeRate>56.856665</exchangeRate>
+		<inverseRate>0.017588</inverseRate>
+		<inverseDescription>1 Macedonian denar = 0.017588 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1,594.028889 IQD</title>
+		<link>http://www.floatrates.com/chf/iqd/</link>
+		<description>1 Swiss Franc = 1,594.028889 Iraqi dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>IQD</targetCurrency>
+		<targetName>Iraqi dinar</targetName>
+		<exchangeRate>1,594.028889</exchangeRate>
+		<inverseRate>0.000627</inverseRate>
+		<inverseDescription>1 Iraqi dinar = 0.000627 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 108.584028 RSD</title>
+		<link>http://www.floatrates.com/chf/rsd/</link>
+		<description>1 Swiss Franc = 108.584028 Serbian Dinar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>108.584028</exchangeRate>
+		<inverseRate>0.009209</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.009209 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 22.833898 STN</title>
+		<link>http://www.floatrates.com/chf/stn/</link>
+		<description>1 Swiss Franc = 22.833898 São Tomé and Príncipe Dobra</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>STN</targetCurrency>
+		<targetName>São Tomé and Príncipe Dobra</targetName>
+		<exchangeRate>22.833898</exchangeRate>
+		<inverseRate>0.043795</inverseRate>
+		<inverseDescription>1 São Tomé and Príncipe Dobra = 0.043795 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.090400 BSD</title>
+		<link>http://www.floatrates.com/chf/bsd/</link>
+		<description>1 Swiss Franc = 1.090400 Bahamian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>1.090400</exchangeRate>
+		<inverseRate>0.917095</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 0.917095 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2.199668 BBD</title>
+		<link>http://www.floatrates.com/chf/bbd/</link>
+		<description>1 Swiss Franc = 2.199668 Barbadian Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>2.199668</exchangeRate>
+		<inverseRate>0.454614</inverseRate>
+		<inverseDescription>1 Barbadian Dollar = 0.454614 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2.195960 BZD</title>
+		<link>http://www.floatrates.com/chf/bzd/</link>
+		<description>1 Swiss Franc = 2.195960 Belize dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BZD</targetCurrency>
+		<targetName>Belize dollar</targetName>
+		<exchangeRate>2.195960</exchangeRate>
+		<inverseRate>0.455382</inverseRate>
+		<inverseDescription>1 Belize dollar = 0.455382 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.466626 BND</title>
+		<link>http://www.floatrates.com/chf/bnd/</link>
+		<description>1 Swiss Franc = 1.466626 Brunei Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>1.466626</exchangeRate>
+		<inverseRate>0.681837</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 0.681837 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2.277403 FJD</title>
+		<link>http://www.floatrates.com/chf/fjd/</link>
+		<description>1 Swiss Franc = 2.277403 Fiji Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>2.277403</exchangeRate>
+		<inverseRate>0.439097</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 0.439097 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 227.927067 GYD</title>
+		<link>http://www.floatrates.com/chf/gyd/</link>
+		<description>1 Swiss Franc = 227.927067 Guyanese dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>GYD</targetCurrency>
+		<targetName>Guyanese dollar</targetName>
+		<exchangeRate>227.927067</exchangeRate>
+		<inverseRate>0.004387</inverseRate>
+		<inverseDescription>1 Guyanese dollar = 0.004387 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 164.801179 JMD</title>
+		<link>http://www.floatrates.com/chf/jmd/</link>
+		<description>1 Swiss Franc = 164.801179 Jamaican Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>164.801179</exchangeRate>
+		<inverseRate>0.006068</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.006068 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 186.971741 LRD</title>
+		<link>http://www.floatrates.com/chf/lrd/</link>
+		<description>1 Swiss Franc = 186.971741 Liberian dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>LRD</targetCurrency>
+		<targetName>Liberian dollar</targetName>
+		<exchangeRate>186.971741</exchangeRate>
+		<inverseRate>0.005348</inverseRate>
+		<inverseDescription>1 Liberian dollar = 0.005348 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 15.739788 NAD</title>
+		<link>http://www.floatrates.com/chf/nad/</link>
+		<description>1 Swiss Franc = 15.739788 Namibian dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>NAD</targetCurrency>
+		<targetName>Namibian dollar</targetName>
+		<exchangeRate>15.739788</exchangeRate>
+		<inverseRate>0.063533</inverseRate>
+		<inverseDescription>1 Namibian dollar = 0.063533 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 23.450336 SRD</title>
+		<link>http://www.floatrates.com/chf/srd/</link>
+		<description>1 Swiss Franc = 23.450336 Surinamese dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SRD</targetCurrency>
+		<targetName>Surinamese dollar</targetName>
+		<exchangeRate>23.450336</exchangeRate>
+		<inverseRate>0.042643</inverseRate>
+		<inverseDescription>1 Surinamese dollar = 0.042643 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 7.400550 TTD</title>
+		<link>http://www.floatrates.com/chf/ttd/</link>
+		<description>1 Swiss Franc = 7.400550 Trinidad Tobago Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>7.400550</exchangeRate>
+		<inverseRate>0.135125</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.135125 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2.952882 XCD</title>
+		<link>http://www.floatrates.com/chf/xcd/</link>
+		<description>1 Swiss Franc = 2.952882 East Caribbean Dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>2.952882</exchangeRate>
+		<inverseRate>0.338652</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 0.338652 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 8.688206 SBD</title>
+		<link>http://www.floatrates.com/chf/sbd/</link>
+		<description>1 Swiss Franc = 8.688206 Solomon Islands dollar</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SBD</targetCurrency>
+		<targetName>Solomon Islands dollar</targetName>
+		<exchangeRate>8.688206</exchangeRate>
+		<inverseRate>0.115099</inverseRate>
+		<inverseDescription>1 Solomon Islands dollar = 0.115099 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 538.063528 AMD</title>
+		<link>http://www.floatrates.com/chf/amd/</link>
+		<description>1 Swiss Franc = 538.063528 Armenia Dram</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>538.063528</exchangeRate>
+		<inverseRate>0.001859</inverseRate>
+		<inverseDescription>1 Armenia Dram = 0.001859 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 102.192888 CVE</title>
+		<link>http://www.floatrates.com/chf/cve/</link>
+		<description>1 Swiss Franc = 102.192888 Cape Verde escudo</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>CVE</targetCurrency>
+		<targetName>Cape Verde escudo</targetName>
+		<exchangeRate>102.192888</exchangeRate>
+		<inverseRate>0.009785</inverseRate>
+		<inverseDescription>1 Cape Verde escudo = 0.009785 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.971940 AWG</title>
+		<link>http://www.floatrates.com/chf/awg/</link>
+		<description>1 Swiss Franc = 1.971940 Aruban florin</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>AWG</targetCurrency>
+		<targetName>Aruban florin</targetName>
+		<exchangeRate>1.971940</exchangeRate>
+		<inverseRate>0.507115</inverseRate>
+		<inverseDescription>1 Aruban florin = 0.507115 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2,162.588085 BIF</title>
+		<link>http://www.floatrates.com/chf/bif/</link>
+		<description>1 Swiss Franc = 2,162.588085 Burundian franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BIF</targetCurrency>
+		<targetName>Burundian franc</targetName>
+		<exchangeRate>2,162.588085</exchangeRate>
+		<inverseRate>0.000462</inverseRate>
+		<inverseDescription>1 Burundian franc = 0.000462 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 605.915557 XAF</title>
+		<link>http://www.floatrates.com/chf/xaf/</link>
+		<description>1 Swiss Franc = 605.915557 Central African CFA Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>605.915557</exchangeRate>
+		<inverseRate>0.001650</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.001650 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 110.114085 XPF</title>
+		<link>http://www.floatrates.com/chf/xpf/</link>
+		<description>1 Swiss Franc = 110.114085 CFP Franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>110.114085</exchangeRate>
+		<inverseRate>0.009081</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.009081 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 193.946871 DJF</title>
+		<link>http://www.floatrates.com/chf/djf/</link>
+		<description>1 Swiss Franc = 193.946871 Djiboutian franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>DJF</targetCurrency>
+		<targetName>Djiboutian franc</targetName>
+		<exchangeRate>193.946871</exchangeRate>
+		<inverseRate>0.005156</inverseRate>
+		<inverseDescription>1 Djiboutian franc = 0.005156 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 10,663.605698 GNF</title>
+		<link>http://www.floatrates.com/chf/gnf/</link>
+		<description>1 Swiss Franc = 10,663.605698 Guinean franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>GNF</targetCurrency>
+		<targetName>Guinean franc</targetName>
+		<exchangeRate>10,663.605698</exchangeRate>
+		<inverseRate>0.000094</inverseRate>
+		<inverseDescription>1 Guinean franc = 0.000094 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 454.487664 KMF</title>
+		<link>http://www.floatrates.com/chf/kmf/</link>
+		<description>1 Swiss Franc = 454.487664 	Comoro franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>KMF</targetCurrency>
+		<targetName>	Comoro franc</targetName>
+		<exchangeRate>454.487664</exchangeRate>
+		<inverseRate>0.002200</inverseRate>
+		<inverseDescription>1 	Comoro franc = 0.002200 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2,163.710341 CDF</title>
+		<link>http://www.floatrates.com/chf/cdf/</link>
+		<description>1 Swiss Franc = 2,163.710341 Congolese franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>CDF</targetCurrency>
+		<targetName>Congolese franc</targetName>
+		<exchangeRate>2,163.710341</exchangeRate>
+		<inverseRate>0.000462</inverseRate>
+		<inverseDescription>1 Congolese franc = 0.000462 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1,099.543731 RWF</title>
+		<link>http://www.floatrates.com/chf/rwf/</link>
+		<description>1 Swiss Franc = 1,099.543731 Rwandan franc</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>RWF</targetCurrency>
+		<targetName>Rwandan franc</targetName>
+		<exchangeRate>1,099.543731</exchangeRate>
+		<inverseRate>0.000909</inverseRate>
+		<inverseDescription>1 Rwandan franc = 0.000909 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 193.775611 SSP</title>
+		<link>http://www.floatrates.com/chf/ssp/</link>
+		<description>1 Swiss Franc = 193.775611 South Sudanese pound</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SSP</targetCurrency>
+		<targetName>South Sudanese pound</targetName>
+		<exchangeRate>193.775611</exchangeRate>
+		<inverseRate>0.005161</inverseRate>
+		<inverseDescription>1 South Sudanese pound = 0.005161 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 479.249406 SDG</title>
+		<link>http://www.floatrates.com/chf/sdg/</link>
+		<description>1 Swiss Franc = 479.249406 Sudanese pound</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SDG</targetCurrency>
+		<targetName>Sudanese pound</targetName>
+		<exchangeRate>479.249406</exchangeRate>
+		<inverseRate>0.002087</inverseRate>
+		<inverseDescription>1 Sudanese pound = 0.002087 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2,779.646552 SYP</title>
+		<link>http://www.floatrates.com/chf/syp/</link>
+		<description>1 Swiss Franc = 2,779.646552 Syrian pound</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SYP</targetCurrency>
+		<targetName>Syrian pound</targetName>
+		<exchangeRate>2,779.646552</exchangeRate>
+		<inverseRate>0.000360</inverseRate>
+		<inverseDescription>1 Syrian pound = 0.000360 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 6.580603 GHS</title>
+		<link>http://www.floatrates.com/chf/ghs/</link>
+		<description>1 Swiss Franc = 6.580603 Ghanaian Cedi</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>6.580603</exchangeRate>
+		<inverseRate>0.151962</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 0.151962 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 106.364026 HTG</title>
+		<link>http://www.floatrates.com/chf/htg/</link>
+		<description>1 Swiss Franc = 106.364026 Haitian gourde</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>HTG</targetCurrency>
+		<targetName>Haitian gourde</targetName>
+		<exchangeRate>106.364026</exchangeRate>
+		<inverseRate>0.009402</inverseRate>
+		<inverseDescription>1 Haitian gourde = 0.009402 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 7,541.180214 PYG</title>
+		<link>http://www.floatrates.com/chf/pyg/</link>
+		<description>1 Swiss Franc = 7,541.180214 Paraguayan Guaraní</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>7,541.180214</exchangeRate>
+		<inverseRate>0.000133</inverseRate>
+		<inverseDescription>1 Paraguayan Guaraní = 0.000133 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 10,449.799067 LAK</title>
+		<link>http://www.floatrates.com/chf/lak/</link>
+		<description>1 Swiss Franc = 10,449.799067 Lao kip</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>LAK</targetCurrency>
+		<targetName>Lao kip</targetName>
+		<exchangeRate>10,449.799067</exchangeRate>
+		<inverseRate>0.000096</inverseRate>
+		<inverseDescription>1 Lao kip = 0.000096 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 885.237755 MWK</title>
+		<link>http://www.floatrates.com/chf/mwk/</link>
+		<description>1 Swiss Franc = 885.237755 Malawian kwacha</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MWK</targetCurrency>
+		<targetName>Malawian kwacha</targetName>
+		<exchangeRate>885.237755</exchangeRate>
+		<inverseRate>0.001130</inverseRate>
+		<inverseDescription>1 Malawian kwacha = 0.001130 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 17.401794 ZMW</title>
+		<link>http://www.floatrates.com/chf/zmw/</link>
+		<description>1 Swiss Franc = 17.401794 Zambian kwacha</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>ZMW</targetCurrency>
+		<targetName>Zambian kwacha</targetName>
+		<exchangeRate>17.401794</exchangeRate>
+		<inverseRate>0.057465</inverseRate>
+		<inverseDescription>1 Zambian kwacha = 0.057465 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 694.911638 AOA</title>
+		<link>http://www.floatrates.com/chf/aoa/</link>
+		<description>1 Swiss Franc = 694.911638 Angolan kwanza</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>AOA</targetCurrency>
+		<targetName>Angolan kwanza</targetName>
+		<exchangeRate>694.911638</exchangeRate>
+		<inverseRate>0.001439</inverseRate>
+		<inverseDescription>1 Angolan kwanza = 0.001439 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1,793.320356 MMK</title>
+		<link>http://www.floatrates.com/chf/mmk/</link>
+		<description>1 Swiss Franc = 1,793.320356 Myanma Kyat</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>1,793.320356</exchangeRate>
+		<inverseRate>0.000558</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.000558 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 3.393845 GEL</title>
+		<link>http://www.floatrates.com/chf/gel/</link>
+		<description>1 Swiss Franc = 3.393845 Georgian lari</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>GEL</targetCurrency>
+		<targetName>Georgian lari</targetName>
+		<exchangeRate>3.393845</exchangeRate>
+		<inverseRate>0.294651</inverseRate>
+		<inverseDescription>1 Georgian lari = 0.294651 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 19.299655 MDL</title>
+		<link>http://www.floatrates.com/chf/mdl/</link>
+		<description>1 Swiss Franc = 19.299655 Moldova Lei</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>19.299655</exchangeRate>
+		<inverseRate>0.051814</inverseRate>
+		<inverseDescription>1 Moldova Lei = 0.051814 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 112.463447 ALL</title>
+		<link>http://www.floatrates.com/chf/all/</link>
+		<description>1 Swiss Franc = 112.463447 Albanian lek</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>ALL</targetCurrency>
+		<targetName>Albanian lek</targetName>
+		<exchangeRate>112.463447</exchangeRate>
+		<inverseRate>0.008892</inverseRate>
+		<inverseDescription>1 Albanian lek = 0.008892 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 26.010417 HNL</title>
+		<link>http://www.floatrates.com/chf/hnl/</link>
+		<description>1 Swiss Franc = 26.010417 Honduran Lempira</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>26.010417</exchangeRate>
+		<inverseRate>0.038446</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.038446 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 11,268.837373 SLL</title>
+		<link>http://www.floatrates.com/chf/sll/</link>
+		<description>1 Swiss Franc = 11,268.837373 Sierra Leonean leone</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SLL</targetCurrency>
+		<targetName>Sierra Leonean leone</targetName>
+		<exchangeRate>11,268.837373</exchangeRate>
+		<inverseRate>0.000089</inverseRate>
+		<inverseDescription>1 Sierra Leonean leone = 0.000089 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 15.739788 SZL</title>
+		<link>http://www.floatrates.com/chf/szl/</link>
+		<description>1 Swiss Franc = 15.739788 Swazi lilangeni</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SZL</targetCurrency>
+		<targetName>Swazi lilangeni</targetName>
+		<exchangeRate>15.739788</exchangeRate>
+		<inverseRate>0.063533</inverseRate>
+		<inverseDescription>1 Swazi lilangeni = 0.063533 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 15.739788 LSL</title>
+		<link>http://www.floatrates.com/chf/lsl/</link>
+		<description>1 Swiss Franc = 15.739788 Lesotho loti</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>LSL</targetCurrency>
+		<targetName>Lesotho loti</targetName>
+		<exchangeRate>15.739788</exchangeRate>
+		<inverseRate>0.063533</inverseRate>
+		<inverseDescription>1 Lesotho loti = 0.063533 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.854390 AZN</title>
+		<link>http://www.floatrates.com/chf/azn/</link>
+		<description>1 Swiss Franc = 1.854390 Azerbaijan Manat</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>1.854390</exchangeRate>
+		<inverseRate>0.539261</inverseRate>
+		<inverseDescription>1 Azerbaijan Manat = 0.539261 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 69.840366 MZN</title>
+		<link>http://www.floatrates.com/chf/mzn/</link>
+		<description>1 Swiss Franc = 69.840366 Mozambican metical</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MZN</targetCurrency>
+		<targetName>Mozambican metical</targetName>
+		<exchangeRate>69.840366</exchangeRate>
+		<inverseRate>0.014318</inverseRate>
+		<inverseDescription>1 Mozambican metical = 0.014318 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 448.156284 NGN</title>
+		<link>http://www.floatrates.com/chf/ngn/</link>
+		<description>1 Swiss Franc = 448.156284 Nigerian Naira</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>448.156284</exchangeRate>
+		<inverseRate>0.002231</inverseRate>
+		<inverseDescription>1 Nigerian Naira = 0.002231 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 16.428171 ERN</title>
+		<link>http://www.floatrates.com/chf/ern/</link>
+		<description>1 Swiss Franc = 16.428171 Eritrean nakfa</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>ERN</targetCurrency>
+		<targetName>Eritrean nakfa</targetName>
+		<exchangeRate>16.428171</exchangeRate>
+		<inverseRate>0.060871</inverseRate>
+		<inverseDescription>1 Eritrean nakfa = 0.060871 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 3.816430 TMT</title>
+		<link>http://www.floatrates.com/chf/tmt/</link>
+		<description>1 Swiss Franc = 3.816430 New Turkmenistan Manat</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>3.816430</exchangeRate>
+		<inverseRate>0.262025</inverseRate>
+		<inverseDescription>1 New Turkmenistan Manat = 0.262025 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 39.371764 MRU</title>
+		<link>http://www.floatrates.com/chf/mru/</link>
+		<description>1 Swiss Franc = 39.371764 Mauritanian ouguiya</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MRU</targetCurrency>
+		<targetName>Mauritanian ouguiya</targetName>
+		<exchangeRate>39.371764</exchangeRate>
+		<inverseRate>0.025399</inverseRate>
+		<inverseDescription>1 Mauritanian ouguiya = 0.025399 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2.450035 TOP</title>
+		<link>http://www.floatrates.com/chf/top/</link>
+		<description>1 Swiss Franc = 2.450035 Tongan paʻanga</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>TOP</targetCurrency>
+		<targetName>Tongan paʻanga</targetName>
+		<exchangeRate>2.450035</exchangeRate>
+		<inverseRate>0.408157</inverseRate>
+		<inverseDescription>1 Tongan paʻanga = 0.408157 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 8.731874 MOP</title>
+		<link>http://www.floatrates.com/chf/mop/</link>
+		<description>1 Swiss Franc = 8.731874 Macanese pataca</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MOP</targetCurrency>
+		<targetName>Macanese pataca</targetName>
+		<exchangeRate>8.731874</exchangeRate>
+		<inverseRate>0.114523</inverseRate>
+		<inverseDescription>1 Macanese pataca = 0.114523 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 106.388266 ARS</title>
+		<link>http://www.floatrates.com/chf/ars/</link>
+		<description>1 Swiss Franc = 106.388266 Argentine Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>106.388266</exchangeRate>
+		<inverseRate>0.009400</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.009400 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 61.949927 DOP</title>
+		<link>http://www.floatrates.com/chf/dop/</link>
+		<description>1 Swiss Franc = 61.949927 Dominican Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>61.949927</exchangeRate>
+		<inverseRate>0.016142</inverseRate>
+		<inverseDescription>1 Dominican Peso = 0.016142 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4,108.044367 COP</title>
+		<link>http://www.floatrates.com/chf/cop/</link>
+		<description>1 Swiss Franc = 4,108.044367 Colombian Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>4,108.044367</exchangeRate>
+		<inverseRate>0.000243</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.000243 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.090400 CUP</title>
+		<link>http://www.floatrates.com/chf/cup/</link>
+		<description>1 Swiss Franc = 1.090400 Cuban peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>CUP</targetCurrency>
+		<targetName>Cuban peso</targetName>
+		<exchangeRate>1.090400</exchangeRate>
+		<inverseRate>0.917095</inverseRate>
+		<inverseDescription>1 Cuban peso = 0.917095 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 46.232037 UYU</title>
+		<link>http://www.floatrates.com/chf/uyu/</link>
+		<description>1 Swiss Franc = 46.232037 Uruguayan Peso</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>46.232037</exchangeRate>
+		<inverseRate>0.021630</inverseRate>
+		<inverseDescription>1 Uruguayan Peso = 0.021630 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 12.026160 BWP</title>
+		<link>http://www.floatrates.com/chf/bwp/</link>
+		<description>1 Swiss Franc = 12.026160 Botswana Pula</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>12.026160</exchangeRate>
+		<inverseRate>0.083152</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.083152 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 8.429983 GTQ</title>
+		<link>http://www.floatrates.com/chf/gtq/</link>
+		<description>1 Swiss Franc = 8.429983 Guatemalan Quetzal</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>8.429983</exchangeRate>
+		<inverseRate>0.118624</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.118624 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 45,901.483336 IRR</title>
+		<link>http://www.floatrates.com/chf/irr/</link>
+		<description>1 Swiss Franc = 45,901.483336 Iranian rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>IRR</targetCurrency>
+		<targetName>Iranian rial</targetName>
+		<exchangeRate>45,901.483336</exchangeRate>
+		<inverseRate>0.000022</inverseRate>
+		<inverseDescription>1 Iranian rial = 0.000022 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 272.692598 YER</title>
+		<link>http://www.floatrates.com/chf/yer/</link>
+		<description>1 Swiss Franc = 272.692598 Yemeni rial</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>YER</targetCurrency>
+		<targetName>Yemeni rial</targetName>
+		<exchangeRate>272.692598</exchangeRate>
+		<inverseRate>0.003667</inverseRate>
+		<inverseDescription>1 Yemeni rial = 0.003667 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4,445.063782 KHR</title>
+		<link>http://www.floatrates.com/chf/khr/</link>
+		<description>1 Swiss Franc = 4,445.063782 Cambodian riel</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>KHR</targetCurrency>
+		<targetName>Cambodian riel</targetName>
+		<exchangeRate>4,445.063782</exchangeRate>
+		<inverseRate>0.000225</inverseRate>
+		<inverseDescription>1 Cambodian riel = 0.000225 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2.731330 BYN</title>
+		<link>http://www.floatrates.com/chf/byn/</link>
+		<description>1 Swiss Franc = 2.731330 Belarussian Ruble</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>2.731330</exchangeRate>
+		<inverseRate>0.366122</inverseRate>
+		<inverseDescription>1 Belarussian Ruble = 0.366122 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 16.839539 MVR</title>
+		<link>http://www.floatrates.com/chf/mvr/</link>
+		<description>1 Swiss Franc = 16.839539 Maldivian rufiyaa</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MVR</targetCurrency>
+		<targetName>Maldivian rufiyaa</targetName>
+		<exchangeRate>16.839539</exchangeRate>
+		<inverseRate>0.059384</inverseRate>
+		<inverseDescription>1 Maldivian rufiyaa = 0.059384 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 46.122454 MUR</title>
+		<link>http://www.floatrates.com/chf/mur/</link>
+		<description>1 Swiss Franc = 46.122454 Mauritian Rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>46.122454</exchangeRate>
+		<inverseRate>0.021681</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.021681 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 14.090807 SCR</title>
+		<link>http://www.floatrates.com/chf/scr/</link>
+		<description>1 Swiss Franc = 14.090807 Seychelles rupee</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SCR</targetCurrency>
+		<targetName>Seychelles rupee</targetName>
+		<exchangeRate>14.090807</exchangeRate>
+		<inverseRate>0.070968</inverseRate>
+		<inverseDescription>1 Seychelles rupee = 0.070968 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4.454595 PEN</title>
+		<link>http://www.floatrates.com/chf/pen/</link>
+		<description>1 Swiss Franc = 4.454595 Peruvian Nuevo Sol</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>4.454595</exchangeRate>
+		<inverseRate>0.224487</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 0.224487 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 92.455127 KGS</title>
+		<link>http://www.floatrates.com/chf/kgs/</link>
+		<description>1 Swiss Franc = 92.455127 Kyrgyzstan Som</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>92.455127</exchangeRate>
+		<inverseRate>0.010816</inverseRate>
+		<inverseDescription>1 Kyrgyzstan Som = 0.010816 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 12.369150 TJS</title>
+		<link>http://www.floatrates.com/chf/tjs/</link>
+		<description>1 Swiss Franc = 12.369150 Tajikistan Ruble</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>12.369150</exchangeRate>
+		<inverseRate>0.080846</inverseRate>
+		<inverseDescription>1 Tajikistan Ruble = 0.080846 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 11,637.476564 UZS</title>
+		<link>http://www.floatrates.com/chf/uzs/</link>
+		<description>1 Swiss Franc = 11,637.476564 Uzbekistan Sum</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>11,637.476564</exchangeRate>
+		<inverseRate>0.000086</inverseRate>
+		<inverseDescription>1 Uzbekistan Sum = 0.000086 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 119.729779 KES</title>
+		<link>http://www.floatrates.com/chf/kes/</link>
+		<description>1 Swiss Franc = 119.729779 Kenyan shilling</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>KES</targetCurrency>
+		<targetName>Kenyan shilling</targetName>
+		<exchangeRate>119.729779</exchangeRate>
+		<inverseRate>0.008352</inverseRate>
+		<inverseDescription>1 Kenyan shilling = 0.008352 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 630.210071 SOS</title>
+		<link>http://www.floatrates.com/chf/sos/</link>
+		<description>1 Swiss Franc = 630.210071 Somali shilling</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>SOS</targetCurrency>
+		<targetName>Somali shilling</targetName>
+		<exchangeRate>630.210071</exchangeRate>
+		<inverseRate>0.001587</inverseRate>
+		<inverseDescription>1 Somali shilling = 0.001587 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2,526.951411 TZS</title>
+		<link>http://www.floatrates.com/chf/tzs/</link>
+		<description>1 Swiss Franc = 2,526.951411 Tanzanian shilling</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>TZS</targetCurrency>
+		<targetName>Tanzanian shilling</targetName>
+		<exchangeRate>2,526.951411</exchangeRate>
+		<inverseRate>0.000396</inverseRate>
+		<inverseDescription>1 Tanzanian shilling = 0.000396 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 3,849.925972 UGX</title>
+		<link>http://www.floatrates.com/chf/ugx/</link>
+		<description>1 Swiss Franc = 3,849.925972 Ugandan shilling</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>UGX</targetCurrency>
+		<targetName>Ugandan shilling</targetName>
+		<exchangeRate>3,849.925972</exchangeRate>
+		<inverseRate>0.000260</inverseRate>
+		<inverseDescription>1 Ugandan shilling = 0.000260 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 2.782243 WST</title>
+		<link>http://www.floatrates.com/chf/wst/</link>
+		<description>1 Swiss Franc = 2.782243 Samoan tala</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>WST</targetCurrency>
+		<targetName>Samoan tala</targetName>
+		<exchangeRate>2.782243</exchangeRate>
+		<inverseRate>0.359422</inverseRate>
+		<inverseDescription>1 Samoan tala = 0.359422 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 464.709373 KZT</title>
+		<link>http://www.floatrates.com/chf/kzt/</link>
+		<description>1 Swiss Franc = 464.709373 Kazakhstani Tenge</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>464.709373</exchangeRate>
+		<inverseRate>0.002152</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.002152 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 3,104.594064 MNT</title>
+		<link>http://www.floatrates.com/chf/mnt/</link>
+		<description>1 Swiss Franc = 3,104.594064 Mongolian togrog</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>MNT</targetCurrency>
+		<targetName>Mongolian togrog</targetName>
+		<exchangeRate>3,104.594064</exchangeRate>
+		<inverseRate>0.000322</inverseRate>
+		<inverseDescription>1 Mongolian togrog = 0.000322 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 120.791176 VUV</title>
+		<link>http://www.floatrates.com/chf/vuv/</link>
+		<description>1 Swiss Franc = 120.791176 Vanuatu vatu</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>VUV</targetCurrency>
+		<targetName>Vanuatu vatu</targetName>
+		<exchangeRate>120.791176</exchangeRate>
+		<inverseRate>0.008279</inverseRate>
+		<inverseDescription>1 Vanuatu vatu = 0.008279 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 1.809273 BAM</title>
+		<link>http://www.floatrates.com/chf/bam/</link>
+		<description>1 Swiss Franc = 1.809273 Bosnia and Herzegovina convertible mark</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>BAM</targetCurrency>
+		<targetName>Bosnia and Herzegovina convertible mark</targetName>
+		<exchangeRate>1.809273</exchangeRate>
+		<inverseRate>0.552708</inverseRate>
+		<inverseDescription>1 Bosnia and Herzegovina convertible mark = 0.552708 Swiss Franc</inverseDescription>
+	</item>
+	<item>
+		<title>1 CHF = 4.161020 PLN</title>
+		<link>http://www.floatrates.com/chf/pln/</link>
+		<description>1 Swiss Franc = 4.161020 Polish Zloty</description>
+		<pubDate></pubDate>
+		<baseCurrency>CHF</baseCurrency>
+		<baseName>Swiss Franc</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>4.161020</exchangeRate>
+		<inverseRate>0.240326</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.240326 Swiss Franc</inverseDescription>
+	</item>
+</channel>
+
